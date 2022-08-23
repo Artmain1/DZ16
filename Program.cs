@@ -2,7 +2,6 @@
 [3 7 22 2 78] -> 76*/
 
 int[] numbers = new int[20];
-int count = 0;
 int max = 0;
 Rdnumbers(numbers);
 int min = numbers[0];
